@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="image_padding">16dp</dimen>
+    <dimen name="editor_dimen">10dp</dimen>
+    <dimen name="header_size">25sp</dimen>
+    <dimen name="min_image_height">400dp</dimen>
+</resources>

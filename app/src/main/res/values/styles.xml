@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.Inventory" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/green_main</item>
+        <item name="colorPrimaryVariant">@color/green_variant</item>
+        <item name="colorAccent">@color/green_main</item>
+    </style>
+</resources>
